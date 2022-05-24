@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JimAtLads commonly known as Jim
+- 👋 Hi, I’m @JimAtLads, commonly known as Jim
 - 👀 I’m interested in coding, project management, general science, and math.
 - 🌱 I’m currently learning OpenBSD
 - 💞️ I’m looking to collaborate on <your project goes here>
